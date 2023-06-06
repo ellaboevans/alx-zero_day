@@ -1,1 +1,1 @@
-My sub directory for zero-day
+Updating the content of the directory
